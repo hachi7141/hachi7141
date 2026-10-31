@@ -1,4 +1,6 @@
 ## Hi there 👋
+### 📌 クイックリンク
+- [GitHub Advisory Database](https://github.com)
 
 <!--
 **hachi7141/hachi7141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
