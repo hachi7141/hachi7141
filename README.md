@@ -1,6 +1,12 @@
 ## Hi there 👋
 ### 📌 クイックリンク
+- [情報処理推進機構 IPA](https://www.ipa.go.jp/security/index.html)
+- [JPCERT/CC](https://www.jpcert.or.jp/)
+- [JVN](https://jvn.jp/)
+- [NIST NVD](https://nvd.nist.gov/vuln/search?resultType=records)
+- [CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 - [GitHub Advisory Database](https://github.com/advisories)
+- [CIS portal](https://portal.cisecurity.org/)
 
 <!--
 **hachi7141/hachi7141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
